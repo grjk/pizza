@@ -1,0 +1,33 @@
+body {
+    background-color: lightgrey;
+    font-family: "Century Gothic";
+}
+
+fieldset {
+    border: 1px solid blue;
+    padding: 1em;
+}
+
+legend {
+    text-align: center;
+    font-variant: small-caps;
+    font-size: 125%;
+    font-weight: bold;
+    width: initial;
+}
+
+.jumbotron {
+    background-color: orange;
+
+}
+
+#main {
+    background-color: white;
+    margin: 0 10em 15em 10em;
+    padding: 6em;
+}
+
+#submit {
+    background-color: orange;
+    border: none;
+}
